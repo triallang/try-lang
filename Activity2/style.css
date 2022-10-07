@@ -1,0 +1,42 @@
+body{
+    background-color:lightgoldenrodyellow;
+}
+
+h1{
+    color:darkgoldenrod;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+strong{
+    color:darkcyan;
+}
+
+#info{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+
+#subtitle2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color:darkslategrey;
+    text-align: center;
+}
+
+#motto{
+    text-align: center;
+}
+
+.subtitle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color:darkslategrey;
+}
+
+.list{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    color:darkgoldenrod;
+}
